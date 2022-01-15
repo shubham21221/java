@@ -4,4 +4,4 @@ public class mainn13problem2 {
         System.out.println(a);
     }
 }
-//output = 7.875
+//output= 7.875
