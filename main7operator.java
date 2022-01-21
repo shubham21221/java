@@ -8,4 +8,4 @@ public class main7operator {
     }
 }
 //Output = 27 
-//         false
+// false
