@@ -9,7 +9,7 @@ public class mainn11decrement {
         System.out.println(i);//decrement
     }
 }
-    //output = 45
-    //         44
-    //         43
-    //         43
+   //output = 45
+   //         44
+   //         43
+   //         43
