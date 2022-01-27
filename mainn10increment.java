@@ -7,7 +7,7 @@ public class mainn10increment {
         System.out.println(i);//increment
     }
 }
-                        //output = 45
-                        //         46
-                        //         47
-                        //         47
+                    //output = 45
+                    //         46
+                    //         47
+                    //         47
